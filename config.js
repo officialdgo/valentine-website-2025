@@ -81,7 +81,7 @@ const CONFIG = {
         musicUrl: "http://res.cloudinary.com/dwxdbib1y/video/upload/v1770300078/Drake_-_Best_I_Ever_Had_Official_Music_Video_HnpHMen64KE_dayc9e.mp3", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
-        volume: 0.8                        // Volume level (0.0 to 1.0)
+        volume: 0.5                        // Volume level (0.0 to 1.0)
     }
 };
 
