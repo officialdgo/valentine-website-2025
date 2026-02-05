@@ -5,7 +5,7 @@
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "My Princess💕",
+    valentineName: "My Princess",
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
@@ -78,7 +78,7 @@ const CONFIG = {
     music: {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "https://res.cloudinary.com/dwxdbib1y/video/upload/sp_4k/v1770245816/PARTYNEXTDOOR_20_26_20DRAKE_20-_20SOMEBODY_20LOVES_20ME_20_28Official_20Lyric_20Video_29_20_ZYouVfCThXU_zgezmz.mp3", // Music streaming URL
+        musicUrl: "http://res.cloudinary.com/dwxdbib1y/video/upload/v1770300078/Drake_-_Best_I_Ever_Had_Official_Music_Video_HnpHMen64KE_dayc9e.mp3", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
         volume: 0.8                        // Volume level (0.0 to 1.0)
